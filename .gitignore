@@ -1,2 +1,5 @@
 credentials.tf
 credentials.tf
+.terraform
+.terraform/*
+.terraform.*
